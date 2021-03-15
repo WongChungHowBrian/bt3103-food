@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "bt3103-week-6-c6dc8"
+    "default": "bt3103-food-e645e",
+    "bt3103-food": "bt3103-food-e645e"
   }
 }
